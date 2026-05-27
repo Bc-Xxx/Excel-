@@ -1,0 +1,20 @@
+[
+  {
+    "total_revenue": 19847,
+    "total_quantity": 103,
+    "top_product": "耳机",
+    "file_name": "sales_2024_01"
+  },
+  {
+    "total_revenue": 18751,
+    "total_quantity": 49,
+    "top_product": "显示器",
+    "file_name": "sales_2024_02"
+  },
+  {
+    "total_revenue": 24753,
+    "total_quantity": 147,
+    "top_product": "耳机",
+    "file_name": "sales_2024_03"
+  }
+]
